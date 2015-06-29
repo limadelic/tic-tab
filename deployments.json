@@ -1,0 +1,32 @@
+[
+  {
+    "name": "dummy",
+    "status": "COMPLETED",
+    "uri": "http://spade-prod.mia.ucloud.int:5000/deployments/dummy"
+  },
+  {
+    "name": "golola",
+    "status": "COMPLETED",
+    "uri": "http://spade-prod.mia.ucloud.int:5000/deployments/golola"
+  },
+  {
+    "name": "idspike",
+    "status": "COMPLETED",
+    "uri": "http://spade-prod.mia.ucloud.int:5000/deployments/idspike"
+  },
+  {
+    "name": "t1000",
+    "status": "COMPLETED",
+    "uri": "http://spade-prod.mia.ucloud.int:5000/deployments/t1000"
+  },
+  {
+    "name": "test-apt-get",
+    "status": "COMPLETED",
+    "uri": "http://spade-prod.mia.ucloud.int:5000/deployments/test-apt-get"
+  },
+  {
+    "name": "test-prev-build",
+    "status": "COMPLETED",
+    "uri": "http://spade-prod.mia.ucloud.int:5000/deployments/test-prev-build"
+  }
+]

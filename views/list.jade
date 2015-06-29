@@ -1,0 +1,14 @@
+extends layout
+block content
+  table
+    thead
+      tr
+        th
+        each v, k in items[0]
+          th #{k}
+    tbody
+      each item in items
+        tr
+          td
+          each value in item
+            td #{value}

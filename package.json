@@ -1,8 +1,11 @@
 {
   "name": "tic-tab",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "team city tabs",
-  "main": "tic-tab.js",
+  "main": "index.js",
+  "bin": {
+    "tic-tab": "index.js"
+  },
   "scripts": {
     "start": "coffee src/tic-tab.coffee",
     "test": "mocha"
@@ -25,6 +28,7 @@
   },
   "homepage": "https://github.com/limadelic/tic-tab",
   "dependencies": {
+    "jade": "^1.11.0",
     "minimist": "^1.1.1"
   }
 }
