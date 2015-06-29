@@ -1,0 +1,30 @@
+{
+  "name": "tic-tab",
+  "version": "1.0.0",
+  "description": "team city tabs",
+  "main": "tic-tab.js",
+  "scripts": {
+    "start": "coffee src/tic-tab.coffee",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limadelic/tic-tab.git"
+  },
+  "keywords": [
+    "teamcity",
+    "tc"
+  ],
+  "author": {
+    "name": "limadelic",
+    "email": "limadelic@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limadelic/tic-tab/issues"
+  },
+  "homepage": "https://github.com/limadelic/tic-tab",
+  "dependencies": {
+    "minimist": "^1.1.1"
+  }
+}
