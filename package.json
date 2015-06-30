@@ -1,10 +1,10 @@
 {
   "name": "tic-tab",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "team city tabs",
   "main": "index.js",
   "bin": {
-    "tic-tab": "./bin/tic-tac.js"
+    "tic-tab": "./bin/tic-tab.js"
   },
   "scripts": {
     "start": "coffee src/tic-tab.coffee",
