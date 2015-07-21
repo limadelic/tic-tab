@@ -4,10 +4,10 @@ block content
     thead
       tr
         th
-        each v, k in items[0]
+        each v, k in data[0]
           th #{k}
     tbody
-      each item in items
+      each item in data
         tr
           td
           each value in item

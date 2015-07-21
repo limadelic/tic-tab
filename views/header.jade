@@ -1,0 +1,10 @@
+extends layout
+block content
+  .info
+    table
+      tbody
+        each row in data
+          tr
+          each col in row
+            td #{col[0]}:
+            td !{col[1]}

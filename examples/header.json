@@ -1,0 +1,7 @@
+{
+  "Environment": "E1",
+  "Version": "0.0.7",
+  "Type": "Smoke",
+  "Dbs": ["alpha", "beta"],
+  "Status": "Passed"
+}

@@ -29,6 +29,7 @@
   "homepage": "https://github.com/limadelic/tic-tab",
   "dependencies": {
     "jade": "^1.11.0",
+    "lodash": "^3.10.0",
     "minimist": "^1.1.1"
   }
 }
